@@ -1,0 +1,6 @@
+[submodule "front-end"]
+	path = front-end
+	url = git@github.com:hym66/dwfrontend.git
+[submodule "back-end"]
+	path = back-end
+	url = git@github.com:hym66/dwbackend.git
